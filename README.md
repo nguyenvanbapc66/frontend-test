@@ -2,15 +2,12 @@
 
 We want you to develop a search box component with the following requirements:
 
-- The design / look / feel should be on pair with the provided design files.
+- The completed page should accurately represent the design templates which can be found here: [figma-link](figma-link)
 - The data should be retrieved from the following api: [`GET -> https://frontend-test-api.digitalcreative.cn/?query=flutter`](https://frontend-test-api.digitalcreative.cn/?query=flutter)
 - The correct search box state should be shown accordingly with these rules:
-    - **Initial State:** No search has been performed yet. [Sample](./assets/examples/initial-state.png)
-    - **Search Results:** Display a list of all matching results. [Sample](./assets/examples/search-results-state.png)
-    - **No Results:** When the api response return no results. [Sample](./assets/examples/no-results-state.png)
-
-# Goal
-- The completed page should accurately represent the design templates
+    - [**Initial State:**](./assets/examples/initial-state.png) No search has been performed yet. 
+    - [**Search Results:**](./assets/examples/search-results-state.png) Display a list of all matching results. 
+    - [**No Results:**](./assets/examples/no-results-state.png) When the api response return no results.
 
 # Rules
 
@@ -22,5 +19,9 @@ We want you to develop a search box component with the following requirements:
 
 - A nice architecture. Code is read more than it is written, so the easier it gets to follow your code, folder structure, etc... the better.
 - Your UI composition. We'll check how you connect the different components of the application between them and how the data/state flows.
+- Nice and clean code.
 
 # Bonus points
+
+- CSS Transitions
+- Typescript
