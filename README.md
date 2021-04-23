@@ -2,7 +2,7 @@
 
 We want you to develop a search box component with the following requirements:
 
-- The completed page should accurately represent the design templates which can be found here: [figma-link](figma-link)
+- The completed page should accurately represent the design templates which can be found here: [https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Search-Box---Frontend-Test?node-id=71%3A377](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Search-Box---Frontend-Test?node-id=71%3A377)
 - The data should be retrieved from the following api: [`GET -> https://frontend-test-api.digitalcreative.cn/?query=flutter`](https://frontend-test-api.digitalcreative.cn/?query=flutter)
 - The correct search box state should be shown accordingly with these rules:
     - [**Initial State:**](./assets/examples/initial-state.png) No search has been performed yet. 
@@ -13,6 +13,7 @@ We want you to develop a search box component with the following requirements:
 
 - The application has to be developed using `Vue`.
 - For styling, you can use whatever you want. We use SASS at DC, but feel free to use what you're more comfortable with.
+- Split your code into logical reusable components. We want to see how you isolate your components.
 - Add a `README.md` file with the decisions you took, any information you want to share with us (possible improvements, for example), and the installation instructions.
 
 # What we will be looking for
@@ -23,5 +24,6 @@ We want you to develop a search box component with the following requirements:
 
 # Bonus points
 
-- CSS Transitions
+- State Transitions
 - Typescript
+- Modem build tools
