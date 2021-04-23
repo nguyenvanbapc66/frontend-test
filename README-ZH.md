@@ -12,3 +12,9 @@
   - [**用户没有搜索到结果**](./assets/examples/no-result.png)：此时 API 返回了为空的数组数据
   - [**用户搜索到了结果**](./assets/examples/has-results.png)：此时 API 返回了有结果的数组数据 
   - [**搜索正在进行中**](./assets/examples/searching.png)：此时 API 正在响应过程中
+
+## 基本规则
+
+- 整个应用应该用 Vue 技术栈做开发
+- 尽可能的创造可重复利用的通用组件
+- 你最起码得创建 3 个组件，他们分别是[搜索框组件](./assets/examples/component-search-bar.png)，[标签组件](./assets/examples/component-search-bar.png)和[结果项目组件](./assets/examples/component-result-item.png)
