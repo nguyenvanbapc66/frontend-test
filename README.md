@@ -12,7 +12,8 @@ We want you to develop a search box component with the following requirements:
 # Rules
 
 - The application has to be developed using `Vue`.
-- You have to create at least 3 components, which are the search box, the tag and the result item.
+- Split your code into logical reusable components. We want to see how you isolate your components.
+- You have to create at least 3 components, which are the search box, the tag and the result item in the list.
 - For styling, you can use whatever you want. We use SASS at DC, but feel free to use what you're more comfortable with.
 - Add a `README.md` file with the decisions you took, any information you want to share with us (possible improvements, for example), and the installation instructions.
 
@@ -27,4 +28,5 @@ We want you to develop a search box component with the following requirements:
 - CSS Transitions
 - Typescript
 - Pixel perfect UI implementaion
+- Modern build toolsm
 - ...
