@@ -2,7 +2,7 @@
 
 [中文](./README-ZH.md)
 
-We want you to develop a search box component to search what technologies we are using at DC with the following requirements:
+We want you to develop a search box component to search what technologies we are using at DC, so let's get started!
 
 ## Materials
 
