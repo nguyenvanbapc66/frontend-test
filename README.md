@@ -1,6 +1,6 @@
 # Frontend Test - What technologies we are using at DC
 
-[中文](./README-ZH.md)
+Versions in other languages: [中文](./README-ZH.md)
 
 We want you to develop a search box component to search what technologies we are using at DC, so let's get started!
 
@@ -18,8 +18,8 @@ We want you to develop a search box component to search what technologies we are
 
 - The application has to be developed using `Vue`.
 - Split your code into logical reusable components. We want to see how you isolate your components.
-- You have to create at least 3 components, which are [search bar component](./assets/examples/component-search-bar.png), [the tag component](./assets/examples/component-search-bar.png) and [the result item component](./assets/examples/component-result-item.png)
-- For styling, you can use whatever you want. We use SASS at DC, but feel free to use what you're more comfortable with.
+- You have to create at least 3 universal components, which are [search bar component](./assets/examples/component-search-bar.png), [the tag component](./assets/examples/component-search-bar.png) and [the result item component](./assets/examples/component-result-item.png)
+- For styling, you can use whatever you want. We use Sass at DC, but feel free to use what you're more comfortable with.
 - Add a `README.md` file with the decisions you took, any information you want to share with us (possible improvements, for example), and the installation instructions.
 
 ## What we will be looking for
@@ -30,8 +30,9 @@ We want you to develop a search box component to search what technologies we are
 
 ## Bonus points
 
-- CSS Transitions
-- Typescript
+- Use Vue version 3
+- Use Typescript
 - Pixel perfect UI implementaion
-- Modern build toolsm
+- Modern build tools
+- Add animations
 - ...
