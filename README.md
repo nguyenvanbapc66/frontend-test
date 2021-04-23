@@ -6,7 +6,7 @@ We want you to develop a search box component to search what technologies we are
 
 ## Materials
 
-- The completed page should accurately represent the design templates which can be found here: [Look into the design file on Figma](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Frontend-test-What-technologies-we-are-using-at-DC?node-id=71%3A377). By the way you may need to create your own account to get the precise style anddimension data on it.
+- The completed page should accurately represent the design templates which can be found here: [Look into the design file on Figma](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Frontend-test-What-technologies-we-are-using-at-DC?node-id=71%3A377). By the way you may need to create your own account to get the precise style anddimension data on it (The CSS style in the right panel of the Figma is for reference only to help you to get the precise data, you are the boss to decide how ultimately achieve and improve the whole UI).
 - The data should be retrieved from the following api: [`GET -> https://frontend-test-api.digitalcreative.cn/?query=flutter`](https://frontend-test-api.digitalcreative.cn/?query=flutter)
 - The correct search box state should be shown accordingly with these rules:
   - [**User searched but has no result**](./assets/examples/no-result.png): When the api response return no results.
