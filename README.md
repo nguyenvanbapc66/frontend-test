@@ -1,13 +1,14 @@
-# Digital Creative Frontend Test
+# Frontend Test - What technologies we are using at DC
 
-We want you to develop a search box component with the following requirements:
+We want you to develop a search box component to search what technologies we are using at DC with the following requirements:
 
-- The completed page should accurately represent the design templates which can be found here: [figma-link](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Frontend-test-What-technologies-we-are-using-at-DC?node-id=71%3A377)
+- The completed page should accurately represent the design templates which can be found here: [the design on Figma](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Frontend-test-What-technologies-we-are-using-at-DC?node-id=71%3A377)
 - The data should be retrieved from the following api: [`GET -> https://frontend-test-api.digitalcreative.cn/?query=flutter`](https://frontend-test-api.digitalcreative.cn/?query=flutter)
 - The correct search box state should be shown accordingly with these rules:
-    - [**Initial State:**](./assets/examples/initial-state.png) No search has been performed yet. 
-    - [**Search Results:**](./assets/examples/search-results-state.png) Display a list of all matching results. 
-    - [**No Results:**](./assets/examples/no-results-state.png) When the api response return no results.
+    - [**Searched but has no result:**](./assets/examples/no-result.png) When the api response return no results.
+    - [**Searched and has results:**](./assets/examples/has-results.png) When the api response return bunch of results.
+    - [**Search in process:**](./assets/examples/searching.png) When the api is in the process of response.
+    
 
 # Rules
 
