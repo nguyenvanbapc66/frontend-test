@@ -11,10 +11,22 @@ We want you to develop a search box component to search what technologies we are
 - The data should be retrieved from the following api: [`GET -> https://frontend-test-api.digitalcreative.cn/?search=flutter`](https://frontend-test-api.digitalcreative.cn/?search=flutter)
 
 - The correct search box state should be shown accordingly with these rules:
-  - [**Successful request without any result**](./assets/examples/has-no-result.png): When the api response return no results.
-  - [**Successful request with results**](./assets/examples/has-results.png): When the api response return bunch of results.
-  - [**Pending request**](./assets/examples/searching.png): When the request hasn't yet got a response.
-  - [**Error while searching**](./assets/examples/error-while-searching.png): When there is an error responded from server or the requested time out.
+
+    - Successful request without any result: When the api response return no results.
+
+      ![Successful request without any result](./assets/examples/has-no-result.png)
+
+    - Successful request with results: When the api response return bunch of results.
+
+      ![Successful request with results](./assets/examples/has-results.png)
+    
+    - Pending request: When the request hasn't yet got a response.
+
+      ![Pending request](./assets/examples/searching.png)
+
+    - Error while searching: When there is an error responded from server or the requested time out.
+
+      ![Error while searching](./assets/examples/error-while-searching.png)
 
 ## Rules
 
