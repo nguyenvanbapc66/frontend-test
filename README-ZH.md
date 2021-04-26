@@ -1,4 +1,4 @@
-# 前端测试题 - 我们在 DC 都用了哪些技术
+# 前端测试题 - 构建一个搜索框应用
 
 其他语言版本：[English](./README.md)
 
@@ -73,3 +73,22 @@
 - 增加键盘控制
 - 根据你的想法做额外的功能与界面优化
 - ...
+
+## 最终效果
+
+
+- 正常使用
+
+  ![Normal usage](./assets/examples/demo-normal.gif)
+
+- 错误处理
+
+  ![Normal usage](./assets/examples/demo-error.gif)
+
+- 超时处理
+
+  ![Normal usage](./assets/examples/demo-timeout.gif)
+
+- 键盘控制处理（不作要求）
+
+  ![Normal usage](./assets/examples/demo-keyboard-controls.gif)
