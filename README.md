@@ -11,16 +11,41 @@ We want you to develop a search box component to search what technologies we are
 - The data should be retrieved from the following api: [`GET -> https://frontend-test-api.digitalcreative.cn/?search=flutter`](https://frontend-test-api.digitalcreative.cn/?search=flutter)
 
 - The correct search box state should be shown accordingly with these rules:
-  - [**Successful request without any result**](./assets/examples/no-result.png): When the api response return no results.
+  - [**Successful request without any result**](./assets/examples/has-no-result.png): When the api response return no results.
   - [**Successful request with results**](./assets/examples/has-results.png): When the api response return bunch of results.
   - [**Pending request**](./assets/examples/searching.png): When the request hasn't yet got a response.
+  - [**Error while searching**](./assets/examples/error-while-searching.png): When there is an error responded from server or the requested time out.
 
 ## Rules
 
 - The application has to be developed using `Vue`.
+
 - Split your code into logical reusable components. We want to see how you isolate your components.
-- You have to create at least 3 universal components, which are [search bar component](./assets/examples/component-search-bar.png), [the tag component](./assets/examples/component-tag.png) and [the result item component](./assets/examples/component-result-item.png).
+
+- You have to create at least 3 universal components, which are
+
+  
+
+  -  Search bar component
+
+    ![Search bar](./assets/examples/component-search-bar.png)
+
+     
+
+  - Tag component
+
+    ![Tag](./assets/examples/component-tag.png)
+
+    
+
+  - Result item component
+
+    ![Result item](./assets/examples/component-result-item.png)
+
+    
+
 - For styling, you can use whatever you want. We use Sass at DC, but feel free to use what you're more comfortable with.
+
 - Add a `README.md` file with the decisions you took, any information you want to share with us (possible improvements, for example), and the installation instructions.
 
 ## What we will be looking for
