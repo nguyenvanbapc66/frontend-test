@@ -48,9 +48,9 @@ We want you to develop a search box component that has the function of searching
 
     ![Result item](./assets/examples/component-result-item.png)
   
-- For styling, you can go for anything of your choice. We use Sass at DC, but you ca feel free to use what you're more comfortable with.
+- For styling, you can go for anything of your choice. We use Sass at DC, but you can feel free to use what you're more comfortable with.
 
-- Upload a `README.md` file that documents your thinking process when working on this task - you can also add any additional information that you'd like to share with us, such as suggestions or questions. Last, don't forget to include an installation instruction for us.
+- Write a `README.md` file that documents your thinking process when working on this task - you can also add any additional information that you'd like to share with us, such as suggestions or questions. Last, don't forget to include an installation instruction for us.
 
 ## What we will be looking for
 
