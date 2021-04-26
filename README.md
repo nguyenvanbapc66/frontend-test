@@ -24,7 +24,7 @@ We want you to develop a search box component to search what technologies we are
 
       ![Pending request](./assets/examples/searching.png)
 
-    - Error while searching: When there is an error responded from server or the requested time out.
+    - Error while searching: When there is an error responded from the server or the requested time out.
 
       ![Error while searching](./assets/examples/error-while-searching.png)
 
@@ -47,7 +47,7 @@ We want you to develop a search box component to search what technologies we are
   - Result item component
 
     ![Result item](./assets/examples/component-result-item.png)
-    
+  
 - For styling, you can use whatever you want. We use Sass at DC, but feel free to use what you're more comfortable with.
 
 - Add a `README.md` file with the decisions you took, any information you want to share with us (possible improvements, for example), and the installation instructions.
@@ -64,5 +64,8 @@ We want you to develop a search box component to search what technologies we are
 - Use Typescript
 - Pixel perfect UI implementation
 - Modern build tools
-- CSS animations / Transitions
+- CSS animations / transitions
+- Add keyboard controls
+- Improve functions or UI/UX according to your own thoughts
 - ...
+
