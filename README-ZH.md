@@ -24,21 +24,21 @@
 
   
 
-  -  搜索框组件
+  - 搜索框组件
 
-    ![Search bar](/Users/ryanwu/Documents/DC/frontend-test/assets/examples/component-search-bar.png)
+    ![Search bar](./assets/examples/component-search-bar.png)
 
      
 
   - 标签
 
-    ![Tag](/Users/ryanwu/Documents/DC/frontend-test/assets/examples/component-tag.png)
+    ![Tag](./assets/examples/component-tag.png)
 
     
 
   - 搜索结果单个条目组件
 
-    ![Result item](/Users/ryanwu/Documents/DC/frontend-test/assets/examples/component-result-item.png)
+    ![Result item](./assets/examples/component-result-item.png)
 
     
 
