@@ -7,8 +7,8 @@
 ## 物料
 
 - 全部的设计稿都在这里: [打开 Figma 在线预览](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Frontend-test-What-technologies-we-are-using-at-DC?node-id=71%3A377)，在开发时你应该严格按照上面的尺寸与布局来排版。对了，在打开链接后你应该还需要创建一个自己的账号来获取设计上的精确样式以及尺寸以便帮助你开发。
-- 搜索数据应该从这个 API 中获取 [`GET -> https://frontend-test-api.digitalcreative.cn/?query=flutter`](https://frontend-test-api.digitalcreative.cn/?search=flutter)
-- 应用应该具备 4 种基本形态
+- 搜索数据应该从这个 API 中获取 [`GET -> https://frontend-test-api.digitalcreative.cn/?search=flutter`](https://frontend-test-api.digitalcreative.cn/?search=flutter)
+- 应用应该具备 4 种基本状态
     - 用户没有搜索到结果：此时 API 返回了为空的数组数据
 
       ![用户没有搜索到结果](./assets/examples/has-no-result.png)
@@ -27,7 +27,7 @@
 
 ## 基本规则
 
-- 整个应用应该用 Vue 技术栈做开发，因为他是我们目前 Web 前端的主要技术栈
+- 整个应用应该用 Vue 技术栈做开发
 
 - 尽可能的创造可重复利用的通用组件
 
