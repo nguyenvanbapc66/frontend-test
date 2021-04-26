@@ -24,26 +24,18 @@ We want you to develop a search box component to search what technologies we are
 
 - You have to create at least 3 universal components, which are
 
-  
-
-  -  Search bar component
+  - Search bar component
 
     ![Search bar](./assets/examples/component-search-bar.png)
-
-     
 
   - Tag component
 
     ![Tag](./assets/examples/component-tag.png)
 
-    
-
   - Result item component
 
     ![Result item](./assets/examples/component-result-item.png)
-
     
-
 - For styling, you can use whatever you want. We use Sass at DC, but feel free to use what you're more comfortable with.
 
 - Add a `README.md` file with the decisions you took, any information you want to share with us (possible improvements, for example), and the installation instructions.
