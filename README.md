@@ -6,7 +6,7 @@ We want you to develop a search box component that has the function of searching
 
 ## Materials
 
-- The completed pages should strictly follow the design templates offered by us , which can be found here: [design templates on Figma](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Frontend-test-What-technologies-we-are-using-at-DC?node-id=71%3A377). *You may need to create a free account to be able to inspect the elements precisely*.
+- The completed pages should strictly follow the design templates offered by us, which can be found here: [design templates on Figma](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Frontend-test-What-technologies-we-are-using-at-DC?node-id=71%3A377). *You may need to create a free account to be able to inspect the elements precisely*.
 
 - The data should be retrieved from the following api: [`GET -> https://frontend-test-api.digitalcreative.cn/?search=flutter`](https://frontend-test-api.digitalcreative.cn/?search=flutter)
 
@@ -52,6 +52,8 @@ We want you to develop a search box component that has the function of searching
 
 - Write a `README.md` file that documents your thinking process when working on this task - you can also add any additional information that you'd like to share with us, such as suggestions or questions. Last, don't forget to include an installation instruction for us.
 
+- When you get all those things done please send us a zip file that includes the project.
+
 ## What we will be looking for
 
 - A nice architecture. Code should be written in a way that's easy to read and follow - a clear folder structure is very crucial as well.
@@ -87,3 +89,9 @@ We want you to develop a search box component that has the function of searching
 - Dealing with keyboard controls (nice to have)
 
   ![Normal usage](./assets/examples/demo-keyboard-controls.gif)
+
+---
+
+If you have any doubt, don't hesitate and send us an email (hello@digitalcreative.asia).
+
+We can't wait to see what you come up with! Thanks for your time!

@@ -33,29 +33,23 @@
 
 - 你最起码应该创建三个组件
 
-  
-
   - 搜索框组件
 
     ![Search bar](./assets/examples/component-search-bar.png)
-
-     
 
   - 标签
 
     ![Tag](./assets/examples/component-tag.png)
 
-    
-
   - 搜索结果单个条目组件
 
     ![Result item](./assets/examples/component-result-item.png)
 
-    
-
 - 你可以用你想用 CSS 预处理器，即使在 DC 我们用 Sass，但是你用其他的也可以。
 
 - 你需要在你提交的代码包里增加一个 `README.md` 介绍，这个介绍里大概应该包含一些你做某些决策的原因，你想额外的我们表达或者分享的信息（比如哪个地方其实可以继续做优化），以及说明你所选用的脚手架的安装、运行方式以便让我们运行起来并给你的作品打分。
+
+- 当你完成了所有任务后请将项目放进 zip 压缩文件内发送给我
 
 ## 我们青睐哪种作品
 
@@ -89,6 +83,12 @@
 
   ![Normal usage](./assets/examples/demo-timeout.gif)
 
-- 键盘控制处理（不作要求）
+- 键盘控制处理（如果有最好）
 
   ![Normal usage](./assets/examples/demo-keyboard-controls.gif)
+
+---
+
+如果你有任何疑问欢迎随时联系我们 (hello@digitalcreative.asia).
+
+我们已经迫不及待的想要看到你的成果了！
