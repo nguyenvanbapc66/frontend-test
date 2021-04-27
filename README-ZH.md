@@ -22,7 +22,8 @@
       ![搜索正在进行中](./assets/examples/searching.png)
 
     - 搜索时遇到错误：此时服务器返回错误或者请求超时
-    *需要注意的是，你得手动将请求参数中的 `no-throttling` 改为 `false` 来让 API 模拟这种情况。*
+
+        *需要注意的是，你得手动将请求参数中的 `no-throttling` 改为 `false` 来让 API 模拟这种情况。*
 
       ![搜索正在进行中](./assets/examples/error-while-searching.png)
 
