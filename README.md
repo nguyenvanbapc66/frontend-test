@@ -8,7 +8,7 @@ We want you to develop a search box component that has the function of searching
 
 - The completed pages should strictly follow the design templates offered by us, which can be found here: [design templates on Figma](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Frontend-test-What-technologies-we-are-using-at-DC?node-id=71%3A377). *You may need to create a free account to be able to inspect the elements precisely*.
 
-- The data should be retrieved from the following api: [`GET -> https://frontend-test-api.digitalcreative.cn/?search=flutter`](https://frontend-test-api.digitalcreative.cn/?search=flutter)
+- The data should be retrieved from the following API: [`GET -> https://frontend-test-api.digitalcreative.cn/?no-throttling=true&search=flutter`](https://frontend-test-api.digitalcreative.cn/?no-throttling=true&search=flutter)
 
 - A total of 4 different searching states of the search box should be included:
 
@@ -25,6 +25,7 @@ We want you to develop a search box component that has the function of searching
       ![Pending request](./assets/examples/searching.png)
 
     - Error while requesting: When the API is responding, an error or a timeout occurred.
+     *Please note that you have to change the `no-throttling` parameter in the query string to `false` to make the API simulate this kind of situation.*
 
       ![Error while requesting](./assets/examples/error-while-searching.png)
 

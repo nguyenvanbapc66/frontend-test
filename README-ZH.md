@@ -7,7 +7,7 @@
 ## 物料
 
 - 全部的设计稿都在这里: [打开 Figma 在线预览](https://www.figma.com/file/mcHQ3hMUG0fmgWVh6QPUlv/Frontend-test-What-technologies-we-are-using-at-DC?node-id=71%3A377)，在开发时你应该严格按照上面的尺寸与布局来排版。对了，在打开链接后你应该还需要创建一个自己的账号来获取设计上的精确样式以及尺寸以便帮助你开发。
-- 搜索数据应该从这个 API 中获取 [`GET -> https://frontend-test-api.digitalcreative.cn/?search=flutter`](https://frontend-test-api.digitalcreative.cn/?search=flutter)
+- 搜索数据应该从这个 API 中获取 [`GET -> https://frontend-test-api.digitalcreative.cn/?no-throttling=true&search=flutter`](https://frontend-test-api.digitalcreative.cn/?no-throttling=true&search=flutter)
 - 应用应该具备 4 种基本状态
     - 用户没有搜索到结果：此时 API 返回了为空的数组数据
 
@@ -22,6 +22,7 @@
       ![搜索正在进行中](./assets/examples/searching.png)
 
     - 搜索时遇到错误：此时服务器返回错误或者请求超时
+    *需要注意的是，你得手动将请求参数中的 `no-throttling` 改为 `false` 来让 API 模拟这种情况。*
 
       ![搜索正在进行中](./assets/examples/error-while-searching.png)
 
