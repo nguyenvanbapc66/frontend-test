@@ -26,7 +26,7 @@ We want you to develop a search box component that has the function of searching
 
     - Error while requesting: When the API is responding, an error or a timeout occurred.
      
-     *Please note that you have to change the `no-throttling` parameter in the query string to `false` to make the API simulate this kind of situation.*
+        *Please note that you have to change the `no-throttling` parameter in the query string to `false` to make the API simulate this kind of situation.*
 
       ![Error while requesting](./assets/examples/error-while-searching.png)
 
