@@ -69,7 +69,7 @@ We want you to develop a search box component that has the function of searching
 - Implemented pixel-perfect UI
 - Adopted up-to-date building tools
 - Incorporated CSS animations / transitions
-- Added keyboard controls
+- Added keyboard controls (Tab key)
 - Improved functions or UI/UX according to your own thoughts
 - ...
 
