@@ -32,7 +32,7 @@ We want you to develop a search box component that has the function of searching
 
 ## Rules
 
-- The application has to be developed using `Vue`.
+- The application has to be developed using Vue or React.
 
 - Split your code into logical reusable components. We want to see how you isolate your components.
 
@@ -50,7 +50,7 @@ We want you to develop a search box component that has the function of searching
 
     ![Result item](./assets/examples/component-result-item.png)
   
-- For styling, you can go for anything of your choice. We use Sass at DC, but you can feel free to use what you're more comfortable with.
+- For styling, you can go for anything of your choice. We use Tailwind CSS and Sass at DC, but you can feel free to use any CSS frameworks or preprocessors that you're more comfortable with.
 
 - Write a `README.md` file that documents your thinking process when working on this task - you can also add any additional information that you'd like to share with us, such as suggestions or questions. Last, don't forget to include an installation instruction for us.
 
@@ -64,11 +64,10 @@ We want you to develop a search box component that has the function of searching
 
 ## Bonus points
 
-- Used Vue version 3
 - Used Typescript
 - Implemented pixel-perfect UI
-- Adopted up-to-date building tools
-- Incorporated CSS animations / transitions
+- Adopted up-to-date building frameworks/tools
+- Incorporated CSS animations/transitions
 - Added keyboard controls (Tab key)
 - Improved functions or UI/UX according to your own thoughts
 - ...
@@ -82,15 +81,15 @@ We want you to develop a search box component that has the function of searching
 
 - Dealing with error
 
-  ![Normal usage](./assets/examples/demo-error.gif)
+  ![Error case](./assets/examples/demo-error.gif)
 
 - Dealing with timing out
 
-  ![Normal usage](./assets/examples/demo-timeout.gif)
+  ![Timing out](./assets/examples/demo-timeout.gif)
 
 - Dealing with keyboard controls (nice to have)
 
-  ![Normal usage](./assets/examples/demo-keyboard-controls.gif)
+  ![Keyboard control](./assets/examples/demo-keyboard-controls.gif)
 
 ---
 

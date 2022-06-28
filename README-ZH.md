@@ -25,15 +25,15 @@
 
         *需要注意的是，你得手动将请求参数中的 `no-throttling` 改为 `false` 来让 API 模拟这种情况。*
 
-      ![搜索正在进行中](./assets/examples/error-while-searching.png)
+      ![搜索时遇到错误](./assets/examples/error-while-searching.png)
 
 ## 基本规则
 
-- 整个应用应该用 Vue 技术栈做开发。
+- 整个应用应该用 Vue 或者 React 技术栈做开发
 
 - 尽可能的创造可重复利用的通用组件。
 
-- 你最起码应该创建三个组件
+- 最少创建三个基本通用组件：
 
   - 搜索框组件
 
@@ -47,9 +47,9 @@
 
     ![Result item](./assets/examples/component-result-item.png)
 
-- 你可以选择你用的顺手的 CSS 预处理器。
+- 对于样式代码，你可以遵循你的喜好自由选择 CSS 框架或预处理工具进行编写。在 DC 我们用 Tailwind CSS 和 Sass，但是在这个项目中你可以选用你最拿手的方式。
 
-- 你需要在你提交的代码包里增加一个 `README.md` 介绍，这个介绍里大概应该包含一些你做某些决策的原因，你想额外的我们表达或者分享的信息（比如哪个地方其实可以继续做优化），以及说明你所选用的脚手架的安装、运行方式以便让我们运行起来并给你的作品打分。
+- 别忘了在你提交的代码包里附带一个 `README.md` 介绍，这个介绍里大概应该包含一些你做某些决策的原因，你想额外的我们表达或者分享的信息（比如哪个地方其实可以继续做优化），以及说明你所选用的脚手架的安装、运行方式以便让我们运行起来并给你的作品打分。
 
 - 当你完成了所有任务后请将项目放进 zip 压缩文件内发送给我们。
 
@@ -61,7 +61,6 @@
 
 ## 加分项
 
-- 使用 Vue 3
 - 使用 Typescript
 - 严格以像素为单位进行 UI 实现
 - 用现代的脚手架工具进行构建
@@ -79,18 +78,18 @@
 
 - 错误处理
 
-  ![Normal usage](./assets/examples/demo-error.gif)
+  ![Error usage](./assets/examples/demo-error.gif)
 
 - 超时处理
 
-  ![Normal usage](./assets/examples/demo-timeout.gif)
+  ![Timing out](./assets/examples/demo-timeout.gif)
 
 - 键盘控制处理（如果有最好）
 
-  ![Normal usage](./assets/examples/demo-keyboard-controls.gif)
+  ![Keyboard control](./assets/examples/demo-keyboard-controls.gif)
 
 ---
 
 如果你有任何疑问欢迎随时联系我们 (hello@digitalcreative.asia).
 
-我们已经迫不及待的想要看到你的成果了！
+我们非常期待你的成果！
