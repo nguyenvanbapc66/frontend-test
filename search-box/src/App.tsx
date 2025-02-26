@@ -85,6 +85,7 @@ function App() {
         <SearchBar
           value={searchValue}
           onChange={handleSearchInputChange}
+          placeholder='Search what technologies we are using at DC...'
           hasError={isError}
           onFocus={handleSearchClear}
         />
